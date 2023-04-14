@@ -11,3 +11,8 @@ git push --set-upstream origin topics
 git add .
 git commit -m "second commit"
 git push
+
+
+docker build - t imag .
+
+docker run -p 8080:
